@@ -1,0 +1,29 @@
+.servico-log {
+  background-color: #b8faa7;
+  border-radius: 8px;
+  width: 500px;
+  float: right;
+  margin-top: -245px;
+  margin-right: 400px;
+}
+.servico-log h3 {
+  margin-left: 30px;
+  margin-top: 10px;
+  text-align: center;
+}
+.servico-log ul {
+  list-style: none;
+  margin-left: 30px;
+}
+.servico-log ul li {
+  margin-top: 15px;
+}
+.servico-log li strong,
+p {
+  display: inline-block;
+  margin-right: 50px;
+}
+
+.lista-ocorrencia {
+  text-align: center;
+}

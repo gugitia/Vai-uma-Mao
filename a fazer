@@ -1,0 +1,28 @@
+a fazer:
+
+finalizar tela de perfil parceiro
+
+# 0.5 organizar lista de serviço 
+# 1.  criar clientes no banco
+# 2.  criar no banco ocorrencias que liguem os clientes os serviços e os parceiros e também recolha a data e hora
+2.5 fazer qualquer alteração necessária no backend (a data da ocorrencia está com problema)
+#3.  no projeto, criar o componente de historico e colocar na tela de perfil substituindo a section de historico
+#4.  os dados do historico devem ser recebidos ao renderizar a tela, com o use effect
+5.  criar forma de editar o endereço e a descrição
+6.  criar procedures ou algo assim para popular o grafico de pizza 
+7.  criar alguma regra para definir o score
+8. fixar/padronizar os componentes e criar responsividade
+
+
+cadastro e login
+
+8. normalizar a tela de cadastro
+9. criar login com autenticação de senha segura e inviolavel
+
+
+inicio do desenvolvimento do aplicativo (usando react-native, preciso estudar ainda)
+
+10. desenvolvimento de telas para clientes
+11. desenvolvimento de telas para parceiros
+12. criar parte do cliente no backend 
+

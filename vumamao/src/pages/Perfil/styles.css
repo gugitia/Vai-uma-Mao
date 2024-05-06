@@ -1,0 +1,52 @@
+.logo {
+  float: left;
+  margin-top: -200px;
+}
+
+.perfil-foto {
+  max-width: 150px;
+  border-radius: 14px;
+}
+.perfil-container {
+  display: flex;
+  width: 900px;
+  align-items: center;
+  margin: 50px;
+}
+
+.perfil-container img,
+h3 {
+  margin-right: 50px;
+}
+
+.perfil-container-header .logo {
+  margin-left: 100px;
+}
+.perfil-container-header .backlink {
+  margin-right: 40px;
+  float: right;
+  margin: 60px;
+}
+
+.FiChek {
+  float: initial;
+  color: green;
+}
+.FiX {
+  color: red;
+}
+
+.grafico {
+  float: left;
+  margin-left: 930px;
+  margin-top: -400px;
+  background-color: #b8faa7;
+  width: 350px;
+  height: 350px;
+  border-radius: 12px;
+}
+
+.grafico h3 {
+  margin-left: 90px;
+  margin-top: 20px;
+}

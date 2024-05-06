@@ -1,0 +1,47 @@
+h1 {
+  color: rgb(57, 66, 57);
+}
+
+.logo {
+  width: 600px;
+  margin-top: 50px;
+  margin-left: 0px;
+  padding-right: 100px;
+}
+
+.foto {
+  width: 490px;
+  margin-top: 50px;
+  margin-left: 0px;
+  padding-top: 280px;
+}
+.logon-container {
+  width: 100%;
+  max-width: 1120px;
+  height: 100vh;
+  margin: 0 auto;
+  padding-bottom: 200px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logon-container section.form {
+  width: 100%;
+  max-width: 350px;
+  margin-right: 30px;
+}
+
+.logon-container section.form form {
+  margin-top: 50px;
+}
+
+.logon-container section.form form h1 {
+  font-size: 32px;
+  margin-bottom: 32px;
+}
+
+.logon-container section.form form a svg {
+  margin-right: 10px;
+}

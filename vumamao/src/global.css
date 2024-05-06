@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font: 400 14px sans-serif;
+  background: #ffffff;
+}
+
+input,
+button,
+textarea {
+  font: 400 18px sans-serif;
+}
+
+button {
+  cursor: pointer;
+  margin-top: 20px;
+  height: 60px;
+  width: 100px;
+  border-radius: 3px;
+  border-color: #333;
+}
+
+form input {
+  width: 100%;
+  height: 60px;
+  color: #333;
+  border: 1px solid #dcdce6;
+  border-radius: 8px;
+  padding: 0 24px;
+}
+
+.button {
+  width: 100%;
+  height: 60px;
+  background: rgb(21, 160, 33);
+  border: 0;
+  border-radius: 8px;
+  color: #fff;
+  font-weight: 700;
+  margin-top: 16px;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 60px;
+}
+
+.backlink {
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.edit-service {
+  background-color: rgb(152, 252, 125);
+  width: 400px;
+  border-radius: 8px;
+  position: absolute;
+  margin-left: 300px;
+  margin-top: -350px;
+}
+
+.edit-service input {
+  width: 300px;
+  margin: 50px;
+  height: 30px;
+  margin-bottom: -50px;
+}
+
+.edit-service-button {
+  width: 100px;
+  height: 30px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}

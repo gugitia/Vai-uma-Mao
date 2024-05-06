@@ -1,0 +1,53 @@
+.perfil-servicos ul {
+  display: inline-block;
+  max-height: 150px;
+  max-width: 250px;
+  overflow-x: auto;
+  overflow-y: auto;
+}
+.perfil-servicos ul li {
+  list-style: none;
+  font-size: 14px;
+  margin-left: 0;
+}
+.perfil-servicos h3 {
+  margin-left: 3px;
+  margin-bottom: 5px;
+}
+.perfil-servicos {
+  font-size: 18px;
+  width: 250px;
+  margin-left: 50px;
+  background-color: #b8faa7;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.lista-servico {
+  margin-left: -45px;
+}
+
+.linha td {
+  height: 50px;
+  width: 200px;
+}
+
+.add-servico,
+.del-servico {
+  margin-left: 190px;
+  height: 30px;
+  width: 30px;
+  color: rgb(44, 44, 44);
+}
+.add-servico:hover,
+.del-servico:hover {
+  background-color: rgb(197, 197, 197);
+  border-radius: 6px;
+}
+
+.del-servico {
+  margin-left: 150px;
+}
+.add-servico {
+  margin-left: -70px;
+}
